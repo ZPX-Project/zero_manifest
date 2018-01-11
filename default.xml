@@ -5,8 +5,8 @@
            fetch="https://github.com"
            review="review.lineageos.org" />
 
-  <remote name="viper"
-           fetch="https://github.com/Viper-Project/"
+  <remote name="zero"
+           fetch="https://github.com/ZPX-Project/"
            revision="nougat" />
 
   <remote  name="private"
@@ -473,6 +473,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/cm.xml" />
-  <include name="snippets/viper.xml" />
+  <include name="snippets/zero.xml" />
 
 </manifest>
